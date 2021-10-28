@@ -1,2 +1,4 @@
 # PrediLytics
-Class project
+#Project Name: Stock Market Analysis and Prediction
+
+
